@@ -1,0 +1,54 @@
+Category_Type,Item_in_Menu,Carbohydrates,Sugars,Protein,Calories
+Breakfast,Egg McMuffin,31,3,17,300
+Breakfast,Egg White Delight,30,3,18,250
+Breakfast,Sausage McMuffin,29,2,14,370
+Beef & Pork,Big Mac,47,2,21,450
+Beef & Pork,Quarter Pounder with Cheese,41,2,21,400
+Beef & Pork,Quarter Pounder with Bacon & Cheese,48,3,26,430
+Chicken & Fish,Premium Crispy Chicken Classic Sandwich,55,3,19,460
+Chicken & Fish,Premium Grilled Chicken Classic Sandwich,42,4,19,520
+Chicken & Fish,Premium Crispy Chicken Club Sandwich,58,3,20,410
+Salads,Premium Bacon Ranch Salad (without Chicken),10,4,20,470
+Salads,Premium Bacon Ranch Salad with Crispy Chicken,22,2,11,430
+Salads,Premium Bacon Ranch Salad with Grilled Chicken,8,3,11,480
+Salads,Premium Southwest Salad (without Chicken),20,2,18,510
+Salads,Premium Southwest Salad with Crispy Chicken,42,3,18,570
+Salads,Premium Southwest Salad with Grilled Chicken,28,3,18,460
+Snacks & Sides,Chipotle BBQ Snack Wrap (Crispy Chicken),37,3,18,520
+Snacks & Sides,Chipotle BBQ Snack Wrap (Grilled Chicken),30,3,17,410
+Snacks & Sides,Honey Mustard Snack Wrap (Crispy Chicken),34,4,17,470
+Snacks & Sides,Honey Mustard Snack Wrap (Grilled Chicken),27,3,25,540
+Snacks & Sides,Ranch Snack Wrap (Crispy Chicken),32,15,19,460
+Snacks & Sides,Ranch Snack Wrap (Grilled Chicken),25,16,20,400
+Snacks & Sides,Small French Fries,30,15,11,420
+Snacks & Sides,Medium French Fries,44,15,20,550
+Snacks & Sides,Large French Fries,67,15,21,500
+Snacks & Sides,Kids French Fries,15,7,30,620
+Snacks & Sides,Side Salad,4,8,30,570
+Snacks & Sides,Apple Slices,4,7,33,670
+Snacks & Sides,Fruit 'n Yogurt Parfait,30,3,28,740
+Desserts,Baked Apple Pie,32,3,28,800
+Desserts,Chocolate Chip Cookie,21,3,26,640
+Desserts,Oatmeal Raisin Cookie,22,4,26,690
+Desserts,Kids Ice Cream Cone,7,17,36,1090
+Desserts,Hot Fudge Sundae,53,17,36,1150
+Beverages,Coca-Cola Classic (Small),39,17,35,990
+Beverages,Coca-Cola Classic (Medium),55,18,35,1050
+Beverages,Coca-Cola Classic (Large),76,14,8,350
+Coffee & Tea,Iced Tea (Small),0,14,15,520
+Coffee & Tea,Iced Tea (Medium),0,2,12,300
+Coffee & Tea,Iced Tea (Large),0,0,1,150
+Smoothies & Shakes,Blueberry Pomegranate Smoothie (Small),50,32,6,460
+Smoothies & Shakes,Blueberry Pomegranate Smoothie (Medium),62,32,5,290
+Smoothies & Shakes,Blueberry Pomegranate Smoothie (Large),79,18,5,260
+Smoothies & Shakes,Strawberry Banana Smoothie (Small),47,9,24,530
+Smoothies & Shakes,Strawberry Banana Smoothie (Medium),58,10,30,520
+Smoothies & Shakes,Strawberry Banana Smoothie (Large),74,12,37,600
+Smoothies & Shakes,Mango Pineapple Smoothie (Small),50,10,37,610
+Smoothies & Shakes,Mango Pineapple Smoothie (Medium),61,9,29,540
+Smoothies & Shakes,Mango Pineapple Smoothie (Large),78,10,48,750
+Smoothies & Shakes,Vanilla Shake (Small),86,6,12,240
+Smoothies & Shakes,Vanilla Shake (Medium),109,7,15,290
+Smoothies & Shakes,Vanilla Shake (Large),135,7,24,430
+Smoothies & Shakes,Strawberry Shake (Small),90,14,39,720
+Smoothies & Shakes,Strawberry Shake (Medium),114,7,22,380
